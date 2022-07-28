@@ -7,6 +7,8 @@ Product Science instrumentaiton requires build tokens made available during an e
 
 Full documentation for building with the PSi instrumentation is here: https://product-science.github.io/
 
+Use the latest release available for building.
+
 For questions: https://www.productscience.ai/contact
 
 All materials are copyright Product Science, Inc.
